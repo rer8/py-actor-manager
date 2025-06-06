@@ -43,4 +43,3 @@ class ActorManager:
 
     def close(self) -> None:
         self._connection.close()
-
